@@ -13,3 +13,9 @@
 ## Underline 1
 
 # Underline 2
+
+- letra _italica_ primera forma
+- letra _italica_ segunda forma
+- letra **bold** primera forma
+- letra **bold** segunda forma
+- formato ~~tachado~~
