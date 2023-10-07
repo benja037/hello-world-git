@@ -84,3 +84,7 @@ Esto es otro texto dividido triple \*
 ---
 
 Hola
+
+# Saltos de linea
+
+Dos enter
