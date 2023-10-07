@@ -55,3 +55,10 @@ Tecla ]} + alt"
 ```JSON
 codigo
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi   | Burgos   | 123213213 |
+| Tomas  | Tompson  | 123231231 |
