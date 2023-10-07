@@ -72,3 +72,15 @@ Esto es un texto referente a una cita que pondremos debajo:
 Esto es otro texto que no se relaciona con la cita antertior:
 
 > Esto es otra cita.
+
+# Lineas Divisoras
+
+Esto es un texto que sera dicidido(separar espacio para no ser underline y es triple \_).
+
+---
+
+Esto es otro texto dividido triple \*
+
+---
+
+Hola
