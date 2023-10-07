@@ -47,3 +47,11 @@
 # Imagenes
 
 ![Logo Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+# Snipets
+
+Tecla ]} + alt"
+
+```JSON
+codigo
+```
