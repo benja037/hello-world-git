@@ -35,3 +35,11 @@
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
+
+# Links
+
+- <a href="http://www.google.com">Esto es un link en HTML</a>
+- [Esto es un link en Markdown](http://www.google.com)
+- [Esto es un link al index](index.html)
+- [Esto es un link la cabecera](Cabeceras)
+- [Esto es un link al perfil de MaxwellNewage](https://github.com/maxwellnewage/maxwellnewage)
