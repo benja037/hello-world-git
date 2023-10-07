@@ -62,3 +62,13 @@ codigo
 | ------ | -------- | --------- |
 | Maxi   | Burgos   | 123213213 |
 | Tomas  | Tompson  | 123231231 |
+
+# Citas
+
+Esto es un texto referente a una cita que pondremos debajo:
+
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita antertior:
+
+> Esto es otra cita.
